@@ -1,0 +1,16 @@
+---
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: exuanbo/actions-deploy-gist@v1.1.4
+        with:
+          file_path: resume.json
+          gist_id: ${{ vars.GIST_ID }}
+          token: ${{ secrets.TOKEN }}
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
