@@ -1,0 +1,278 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Edson Samuel Jr.",
+    "label": "Software Developer",
+    "image": "",
+    "email": "samuedson@gmail.com",
+    "phone": "+558186434064",
+    "url": "",
+    "summary": "",
+    "location": {
+      "countryCode": "US",
+      "address": "Brazil"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "edson-samuel-jr-47b51b14",
+        "url": "https://www.linkedin.com/in/edson-samuel-jr-47b51b14/"
+      },
+      {
+        "network": "Twitter",
+        "username": "mstred",
+        "url": "https://twitter.com/mstred"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "C.E.S.A.R",
+      "position": "Software Engineer",
+      "startDate": "2014-01-31",
+      "endDate": "2023-12-31",
+      "highlights": [],
+      "summary": "2018-2023\n\nCollaboration on defining a platform foundation for infrastructure tooling using Ansible playbooks and roles to manage hundreds of Linux virtual machines running on an OpenStack private cloud. Support for teams developing applications using PHP/Symfony-based web apps running with MySQL and PostgreSQL databases. Administration of a Jenkins instance used by 10 to 20 project teams, offering support on Jenkinsfile scripts for their project jobs.\n\nDevelopment of software solutions using Groovy/Grails stack, along with platform automation using tools such as Ansible for environment provisioning and Jenkins for Continuous Integration builds.\n\n2015-2018\n\nContribution to the development of a web app using PHP/httpd as a server-side platform, Composer-based dependency management and Backbone/Marionette as the front-end framework. Project developed using Continuous Integration tools such as TeamCity CI for automated builds, along with Docker and Docker Compose in order to deploy the whole stack.\n\n2014-2015\n\nParticipation in a game dev project for Smart TVs with the use of technologies like Phaser.js and Unity SDK.\n\nWeb app development using Java Platform, Spring Framework and PostgreSQL for the back-end stack, and as for the front-end side, adoption of popular web libraries such as Handlebars.js and Bootstrap.",
+      "url": "https://www.linkedin.com/company/7353",
+      "location": "Recife Area, Brazil"
+    },
+    {
+      "name": "Accenture",
+      "position": "Programmer",
+      "startDate": "2013-05-31",
+      "endDate": "2014-01-31",
+      "highlights": [],
+      "summary": "Data Integration and Compensation Management based on Informatica PowerCenter suite for ETL processing and Callidus Software TrueComp Manager tools. Contribution on expansion and moving from project's early consulting services to the HPD (High Performance. Delivered) software house process.",
+      "url": "https://www.linkedin.com/company/1033",
+      "location": "Recife e Região, Brasil"
+    },
+    {
+      "name": "Tribunal de Justiça de Pernambuco",
+      "position": "Software Architecture - Intern",
+      "startDate": "2012-03-31",
+      "endDate": "2012-12-31",
+      "highlights": [],
+      "summary": "Implementation of enterprise-grade software solutions using Java EE platform and Oracle Fusion Middleware. Research and development focused on prospecting new technologies to improve the actual systems architecture.",
+      "url": "https://www.linkedin.com/company/1097760",
+      "location": null
+    },
+    {
+      "name": "Capital Login / Kurier",
+      "position": "Software Development - Intern",
+      "startDate": "2010-11-30",
+      "endDate": "2011-04-30",
+      "highlights": [],
+      "summary": "Development of IT solutions based on .NET Framework applications, implemented in Visual Basic .NET language and using tools for manipulating databases in SQL Server.",
+      "url": "https://www.linkedin.com/company/1426100",
+      "location": null
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Faculdades Integradas Barros Melo - AESO",
+      "area": "Information Systems",
+      "studyType": "BSc",
+      "startDate": "2009-12-31",
+      "endDate": "2012-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Web Development Fundamentals - Microsoft Technology Associate",
+      "issuer": "Microsoft Corporation"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Ansible",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Jenkins",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CESAR",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Subversion",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "jQuery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Hibernate",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Oracle WebLogic Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Maven",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "TeamCity",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "NetBeans",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": ".NET Framework",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "VirtualBox",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Fedora",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ubuntu",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vagrant",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Eclipse",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Android",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Docker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Grails",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Tomcat",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaServer Faces",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "macOS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Groovy",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Full Professional",
+      "language": "English"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Portuguese"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "João Paulo Miranda",
+      "reference": "I worked with Edson for many years and I had the opportunity to learn a lot with him, besides he has a huge technical knowledge and applies the best practices in his delivers, he helps the whole team to achieve the goals.\nI strongly recommend Edson as DevOps/Software Engineer, in both roles he will do an amazing work."
+    },
+    {
+      "name": "Erick Simões",
+      "reference": "Edson é o mais completo e competente profissional da área de T.I. que já conheci. Além de dominar as mais diversas tecnologias está sempre disposto a ensinar. Seu caráter impecável faz dele um exemplo a ser seguido."
+    }
+  ],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
