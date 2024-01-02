@@ -6,7 +6,7 @@
     "image": "",
     "email": "samuedson@gmail.com",
     "phone": "+558186434064",
-    "url": "",
+    "url": "https://mstred.net",
     "summary": "",
     "location": {
       "countryCode": "US",
@@ -34,7 +34,7 @@
       "highlights": [],
       "summary": "2018-2023\n\nCollaboration on defining a platform foundation for infrastructure tooling using Ansible playbooks and roles to manage hundreds of Linux virtual machines running on an OpenStack private cloud. Support for teams developing applications using PHP/Symfony-based web apps running with MySQL and PostgreSQL databases. Administration of a Jenkins instance used by 10 to 20 project teams, offering support on Jenkinsfile scripts for their project jobs.\n\nDevelopment of software solutions using Groovy/Grails stack, along with platform automation using tools such as Ansible for environment provisioning and Jenkins for Continuous Integration builds.\n\n2015-2018\n\nContribution to the development of a web app using PHP/httpd as a server-side platform, Composer-based dependency management and Backbone/Marionette as the front-end framework. Project developed using Continuous Integration tools such as TeamCity CI for automated builds, along with Docker and Docker Compose in order to deploy the whole stack.\n\n2014-2015\n\nParticipation in a game dev project for Smart TVs with the use of technologies like Phaser.js and Unity SDK.\n\nWeb app development using Java Platform, Spring Framework and PostgreSQL for the back-end stack, and as for the front-end side, adoption of popular web libraries such as Handlebars.js and Bootstrap.",
       "url": "https://www.linkedin.com/company/7353",
-      "location": "Recife Area, Brazil"
+      "location": "Recife, Brazil"
     },
     {
       "name": "Accenture",
@@ -44,7 +44,7 @@
       "highlights": [],
       "summary": "Data Integration and Compensation Management based on Informatica PowerCenter suite for ETL processing and Callidus Software TrueComp Manager tools. Contribution on expansion and moving from project's early consulting services to the HPD (High Performance. Delivered) software house process.",
       "url": "https://www.linkedin.com/company/1033",
-      "location": "Recife e Região, Brasil"
+      "location": "Recife, Brazil"
     },
     {
       "name": "Tribunal de Justiça de Pernambuco",
@@ -54,7 +54,7 @@
       "highlights": [],
       "summary": "Implementation of enterprise-grade software solutions using Java EE platform and Oracle Fusion Middleware. Research and development focused on prospecting new technologies to improve the actual systems architecture.",
       "url": "https://www.linkedin.com/company/1097760",
-      "location": null
+      "location": "Recife, Brazil"
     },
     {
       "name": "Capital Login / Kurier",
@@ -64,7 +64,7 @@
       "highlights": [],
       "summary": "Development of IT solutions based on .NET Framework applications, implemented in Visual Basic .NET language and using tools for manipulating databases in SQL Server.",
       "url": "https://www.linkedin.com/company/1426100",
-      "location": null
+      "location": "Recife, Brazil"
     }
   ],
   "volunteer": [],
