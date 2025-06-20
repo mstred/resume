@@ -31,6 +31,7 @@
       "position": "Technology Analyst",
       "startDate": "2024-06-12",
       "highlights": [],
+      "summary": "Work on software development tasks for the eSocial web system through the use of .NET Framework 4.8 and .NET 8 platform technologies with SQL Server databases for backend modules, while using React library for frontend modules.\n\nContribution through refactoring tasks, setting up a CI/CD template for reuse among the project repositories in the GitLab CI platform and occasional use of PowerShell scripts for task automation.\n\nUse of Infrastructure as Code technique to provision internal resources through OpenTofu/Terraform modules.",
       "url": "https://www.linkedin.com/company/serpro/",
       "location": "Recife, Pernambuco, Brazil"
     },
@@ -104,10 +105,21 @@
       "issuer": "Microsoft",
       "endDate": "2015-07-31",
       "startDate": "2011-06-30"
+    },
+    {
+      "name": "Foundational C# with Microsoft",
+      "issuer": "freeCodeCamp",
+      "startDate": "2025-05-01",
+      "url": "https://freecodecamp.org/certification/mstred/foundational-c-sharp-with-microsoft"
     }
   ],
   "publications": [],
   "skills": [
+    {
+      "name": ".NET",
+      "level": "",
+      "keywords": []
+    },
     {
       "name": "Ansible",
       "level": "",
@@ -134,6 +146,11 @@
       "keywords": []
     },
     {
+      "name": "GitLab CI",
+      "level": "",
+      "keywords": []
+    },
+    {
       "name": "Groovy",
       "level": "",
       "keywords": []
@@ -154,6 +171,11 @@
       "keywords": []
     },
     {
+      "name": "Kubernetes",
+      "level": "",
+      "keywords": []
+    },
+    {
       "name": "Linux",
       "level": "",
       "keywords": []
@@ -170,6 +192,21 @@
     },
     {
       "name": "PostgreSQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Terraform",
       "level": "",
       "keywords": []
     }
